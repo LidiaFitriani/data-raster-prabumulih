@@ -1,0 +1,1 @@
+var json_kopersicambai_5 = {"type":"FeatureCollection","name":"kopersicambai_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"kopersi merah putih cambai","jenis":"fasilitas","kelurahan":"cambai"},"geometry":{"type":"Point","coordinates":[104.286805268291758,-3.374180543495635]}}]}
